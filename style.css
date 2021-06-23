@@ -1,0 +1,20 @@
+* {
+    font-family: 'Viaoda Libre', cursive;
+}
+.container {
+    margin: auto;
+    width: 300px;
+    text-align: center;
+
+}
+.buttons {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.displayedNum {
+    margin: auto;
+    text-align: center;
+    width: 400px;
+    border-style: none;
+}
